@@ -16,7 +16,7 @@
   ### Para mais informações essas são minhas Redes de contato!
  
 <div> 
- <a href="https://wa.me/+5585987778468" target="_blank"><img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" target="_blank"></a>
+ <a href="https://wa.me/+5585987778468" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/4brun9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/edcarlos-bruno-4brun9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
